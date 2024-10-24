@@ -1,0 +1,4 @@
+- pipeline: exleiymird
+  refs:
+  - refs/heads/master
+  on: CLICK
